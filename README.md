@@ -20,3 +20,6 @@ node web.js # start the server</pre>
 
 Point your browser to [http://localhost:3001](http://localhost:3001) and watch the magic!
 
+### Presentation
+
+The presentation is available on [SlideShare](http://www.slideshare.net/jeffdonthemic/using-nodejs-for-mocking-apex).
