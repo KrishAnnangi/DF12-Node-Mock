@@ -3,10 +3,10 @@
     "version": "0.0.1",
     "dependencies": {
       "express": "2.5.8"
-    , "jade": ">= 0.0.1"
+    , "jade": "*"
   }
   , "engines": {
-      "node": "0.6.13",
-      "npm": "1.1.41"
+      "node": "0.8.x",
+      "npm": "1.1.x"
   }
 }
